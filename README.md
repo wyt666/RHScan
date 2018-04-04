@@ -5,8 +5,8 @@
 > 说明
 > 本程序仅供学习交流，不可用于任何商业用途。
 
-### Installation with CocoaPods
-***
+### CocoaPods安装
+
 ```ruby
 pod 'RHScan'
 ```
