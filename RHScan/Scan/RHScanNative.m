@@ -367,8 +367,9 @@
     NSLog(@"X:%f -- Y:%f",point2.x,point2.y);
     CGFloat scace =150/(point2.x-point.x); //当二维码图片宽小于150，进行放大
     if (scace > 1) {
-        
-        [self setVideoScale:scace];
+        for (CGFloat i= 1.0; i<=scace; i = i+0.001) {
+            [self setVideoScale:i];
+        }
     }
     return;
 }

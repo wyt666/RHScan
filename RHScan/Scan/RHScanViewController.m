@@ -44,7 +44,7 @@
         self.edgesForExtendedLayout = UIRectEdgeNone;
     }
     self.view.backgroundColor = [UIColor blackColor];
-    
+     _effectiveScale = 1;
     [self cameraInitOver];
     
     [self drawScanView];
