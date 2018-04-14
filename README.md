@@ -14,6 +14,11 @@
 ## 前言
 
 生活中，我们都是使用支付宝支付，当我们再扫描一个较远的二维码过程中，我们会发现，镜头会自动放大很容易扫到二维码进行支付。看起来这么人性化的操作，又是什么原理，该怎么实现呢？扫码现在很常见, 很多App基本都具备扫码功能， 网上也有很多对iOS二维码的讲解, Github上也有很多事例、开源的代码，但是发现APP扫码功能上，自动拉近扫描二维码的这波神操作，很少涉及。本文简单介绍如何iOS原生如何实现扫描较小二维码过程中拉近放大。
+先看看本文效果图：
+![Demo](https://upload-images.jianshu.io/upload_images/11651769-25bb31fe68432bd2.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/290)
+
+对比支付宝扫码放大效果图：
+![支付宝](https://upload-images.jianshu.io/upload_images/11651769-65878e3ed8694a53.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/290)
 
 ##实现
 从网络技术博客、Github上，我们都能很快实现一个二维码扫描功能，本文不再重复这些知识点。重点是如何拉近镜头和定位到二维码判断二维码大小。
