@@ -18,6 +18,7 @@
 ![Demo](https://upload-images.jianshu.io/upload_images/11651769-25bb31fe68432bd2.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/290)
 
 对比支付宝扫码放大效果图：
+
 ![支付宝](https://upload-images.jianshu.io/upload_images/11651769-65878e3ed8694a53.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/290)
 
 ##实现
