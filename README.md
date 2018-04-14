@@ -1,5 +1,5 @@
 ### RHScan——实现二维码扫描功能，含各种UI、手势放大缩小镜头、仿微信扫码放大
-#[iOS原生实现二维码拉近放大](https://www.jianshu.com/p/080814eff67e)
+[iOS原生实现二维码拉近放大](https://www.jianshu.com/p/080814eff67e)
 ---
 > 说明
 > 本程序仅供学习交流，不可用于任何商业用途。
