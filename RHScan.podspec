@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name     = 'RHScan'
-  s.version  = '1.0.1'
+  s.version  = '1.0.2'
   s.license  = { :type => 'MIT', :file => 'LICENSE' }
   s.summary  = '实现二维码扫描功能，含各种UI、手势放大缩小镜头、仿微信扫码放大。'
   s.homepage = 'https://github.com/huangkunhe/RHScan'
