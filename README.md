@@ -1,10 +1,13 @@
 ### RHScan——实现二维码扫描功能，含各种UI、手势放大缩小镜头、仿微信扫码放大
-
-#[iOS原生实现二维码拉近放大](https://www.jianshu.com/p/080814eff67e)
-
++> 说明
++> 本程序仅供学习交流，不可用于任何商业用途。
++
++
 ### 引用
  CocoaPods安装
 > pod 'RHScan'
+
+#[iOS原生实现二维码拉近放大](https://www.jianshu.com/p/080814eff67e)
 
 ## 前言
 
@@ -176,4 +179,6 @@
 [ iOS 扫描二维码实现手势拉近拉远镜头](https://blog.csdn.net/sinat_30336277/article/details/79276113)
 
 [ iOS 识别过程中描绘二维码边框](https://blog.csdn.net/sinat_30336277/article/details/79295025)
+
++## 喜欢的朋友希望可以给个 Star，十分感谢您的支持！~
 
